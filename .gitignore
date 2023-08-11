@@ -20,3 +20,4 @@ yarn-error.log
 /app/cron/env.sh
 /app/cron/logs/*.log
 /envs
+/app/ssl
